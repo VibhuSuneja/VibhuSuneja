@@ -45,7 +45,6 @@ I am a B.Tech Computer Science student specializing in **Full-Stack MERN Develop
 
 ---
 
-### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=VibhuSuneja&show_icons=true&theme=radical&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VibhuSuneja&show_icons=true&theme=radical&hide_border=true" alt="Vibhu's GitHub Stats" />
+</p>
