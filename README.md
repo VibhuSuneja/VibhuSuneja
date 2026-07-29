@@ -53,10 +53,27 @@ Developer Profile:
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements & Profile Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VibhuSuneja&theme=onedark&no-frame=true&column=6&margin-w=15" alt="Vibhu's GitHub Trophies" />
+
+  <a href="https://github.com/VibhuSuneja">
+    <img src="https://img.shields.io/badge/🏆_Achievement-Full_Stack_Developer-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/VibhuSuneja">
+    <img src="https://img.shields.io/badge/⚡_Specialist-Multi--Agent_AI_Architect-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Specialist Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/VibhuSuneja">
+    <img src="https://img.shields.io/badge/🥇_Leadership-Placement_Mentor_@_JMIT-47A248?style=for-the-badge&logo=google&logoColor=white" alt="Leadership Badge"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VibhuSuneja&theme=tokyonight" width="95%" alt="Profile Summary Card" />
+
 </div>
 
 ---
@@ -157,13 +174,17 @@ timeline
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VibhuSuneja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VibhuSuneja&theme=tokyonight" width="48%" alt="GitHub Overall Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhuSuneja&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VibhuSuneja&theme=tokyonight" width="48%" alt="Repositories per Language" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibhuSuneja&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=VibhuSuneja&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VibhuSuneja&theme=tokyo-night" width="95%" alt="GitHub Activity Graph" />
 
 </div>
 
