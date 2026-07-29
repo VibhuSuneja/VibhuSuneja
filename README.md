@@ -180,7 +180,9 @@ timeline
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=VibhuSuneja&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VibhuSuneja&theme=tokyonight" width="48%" alt="Most Committed Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VibhuSuneja&theme=tokyonight" width="48%" alt="Productive Commit Activity" />
 
   <br/><br/>
 
